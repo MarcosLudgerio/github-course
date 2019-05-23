@@ -1,3 +1,4 @@
 # Curso git-hub
 
-![./algo.jpeg](Jeff o cara)
+![./algo](Jeff o cara)
+
