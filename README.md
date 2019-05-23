@@ -1,5 +1,3 @@
-#Course git
-
-Curso git-hub
+# Curso git-hub
 
 ![./algo.jpeg](Jeff o cara)
