@@ -1,6 +1,6 @@
 # Curso git-hub
 
-![./algo](Jeff o cara)
+![Jeff o cara](algo.jpg)
 
 Um curso para aprender mais sobre git e git-hub
 
